@@ -16,7 +16,7 @@ beneficial.
 
 ### Evidence:
 
-* [Tweet by @shlomif](https://twitter.com/shlomif/status/1021089751741419521)
+* [Tweet by @shlomif](https://twitter.com/shlomif/status/1021089751741419521) - «I may be tactless sometimes in my online comm, but I dont think it is good when I am, and I'm trying to improve. OTOH, https://en.wikipedia.org/wiki/Linus_Torvalds … seems to be in denial that his insulting posts are doing a lot of damage, and thinks some ppl deserve this treatment. This is bad.»
 * [Facebook autopost (requires registration)](https://www.facebook.com/shlomi.fish/posts/10155600812561981)
 * [Tweet by Gary Bernhardt](https://twitter.com/garybernhardt/status/1009844030656561153?lang=en) - «Posted: "A Case Study in Not Being A Jerk in Open Source", wherein I rewrite a Linus Torvalds email to be half as long, still clear and forceful, with none of the insults.»
 * ["Linus Torvalds defends his right to shame Linux kernel developers"](https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/)
