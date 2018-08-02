@@ -17,7 +17,7 @@ beneficial.
 ### Evidence:
 
 * [Tweet by @shlomif](https://twitter.com/shlomif/status/1021089751741419521)
-** [Facebook autopost (requires registration)](https://www.facebook.com/shlomi.fish/posts/10155600812561981)
+* [Facebook autopost (requires registration)](https://www.facebook.com/shlomi.fish/posts/10155600812561981)
 * [Tweet by Gary Bernhardt](https://twitter.com/garybernhardt/status/1009844030656561153?lang=en) - «Posted: "A Case Study in Not Being A Jerk in Open Source", wherein I rewrite a Linus Torvalds email to be half as long, still clear and forceful, with none of the insults.»
 * ["Linus Torvalds defends his right to shame Linux kernel developers"](https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/)
 * ["Linus Torvalds on C++"](http://harmful.cat-v.org/software/c++/linus)
