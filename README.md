@@ -61,3 +61,12 @@ git-based open source forks of the kernel.org projects. It will routinely pull
 changesets from the kernel.org repositories, and optionally submit such for
 inclusion in kernel.org, and the LKML contributors will be free to incorporate
 changesets from the forks.
+
+Reportedly, Torvalds purposely designed [git](https://en.wikipedia.org/wiki/Git)
+so that forking will be easy, so he deserves credit for his openness and
+insight.
+
+## See also
+
+* [A modest proposal -- We need a patch penguin](http://lwn.net/2002/0131/a/patch-penguin.php3)
+* ["The Linus Torvalds Bus Factor"](http://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/)
