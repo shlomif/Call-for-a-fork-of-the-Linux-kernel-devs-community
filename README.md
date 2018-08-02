@@ -22,6 +22,7 @@ beneficial.
 * ["Linus Torvalds defends his right to shame Linux kernel developers"](https://arstechnica.com/information-technology/2013/07/linus-torvalds-defends-his-right-to-shame-linux-kernel-developers/)
 * ["Linus Torvalds on C++"](http://harmful.cat-v.org/software/c++/linus)
 * [2015 Discussion on the linux-elitists mailing list](http://zgp.org/pipermail/linux-elitists/2015-December/013937.html)
+* [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) - not fully agreed but offers good food for thought
 
 ### The Risk
 
@@ -33,4 +34,5 @@ driven away most potential developers. Eventually, it was [brought to their atte
 
 The Linux kernel project faces a similar risk:
 
-*
+* [Increasing age](http://zgp.org/pipermail/linux-elitists/2016-January/013941.html)
+* Lack of female attendees in the Linux Kernel Summit.
