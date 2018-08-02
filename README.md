@@ -36,3 +36,28 @@ The Linux kernel project faces a similar risk:
 
 * [Increasing age](http://zgp.org/pipermail/linux-elitists/2016-January/013941.html)
 * Lack of female attendees in the Linux Kernel Summit.
+
+Note: this is <b>not alarmism</b>. All we are saying is that the situation is
+not ideal and can be improved.
+
+## The proposed solution
+
+As noted above, it seems some of the Linux core developers not only practise
+hostility, but encourage it and think it is beneficial, even after they were
+called on it. We propose establishing a parallel Internet-based community of
+forums (not necessarily web forums.), where:
+
+1. Friendliness and respect will be encouraged.
+
+2. Hostility and disrespect will be discouraged and criticised.
+
+3. If a poster continuously exhibits hostility toward his peers, they will be
+put on moderation. Normally, they will not be completely blocked.
+
+[Spam](https://en.wikipedia.org/wiki/Spamming) naturally will be filtered and blocked, but it won't affect well-intending users.
+
+The forked community will accept, review and apply patches/["pull-requests"](https://help.github.com/articles/about-pull-requests/) or similar, in several
+git-based open source forks of the kernel.org projects. It will routinely pull
+changesets from the kernel.org repositories, and optionally submit such for
+inclusion in kernel.org, and the LKML contributors will be free to incorporate
+changesets from the forks.
