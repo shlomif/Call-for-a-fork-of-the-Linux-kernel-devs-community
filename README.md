@@ -79,3 +79,4 @@ so that forking will be easy, so he deserves credit for his openness and insight
 
 * [A modest proposal -- We need a patch penguin](http://lwn.net/2002/0131/a/patch-penguin.php3)
 * ["The Linus Torvalds Bus Factor"](http://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/)
+* [Saladin Style](http://shlomifishswiki.branchable.com/Saladin_Style/)
