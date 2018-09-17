@@ -1,5 +1,28 @@
 # Call for a fork of the Linux kernel developers community
 
+## Recent Note!!
+
+This was originally written at 3 August 2018, but now it seems that
+Linus Torvalds and other kernel devs have [come to their senses](https://www.reddit.com/r/linux/comments/9gdqs6/linux_419rc4_released_an_apology_and_a/)
+and adopted a policy for a more friendly and respectful treatment of
+contributors and potential contributors. This makes this call for
+establishing a complementary community be less relevant for now, and placed
+on hold in order to give a chance for the LKML to change.
+
+This document was not really publicised except for some small-scoped forums.
+It is kept here as a past and future relic.
+
+I do hope the vger.kernel.org email admins will reconsider their complete
+bans from sending emails to all vger.kernel.org addresses, of well-intentioned
+contributors like me, which interfered with my FOSS work.  Generally, putting
+someone on moderation is preferable to a complete ban, and
+if you find something completely offensive it [is often true](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/).
+
+Some prominent kernel.org figures have also been completely unresponsive to
+my legitimate email requests, which may be indicative of them being
+too busy or in need of helping hands (some of which were driven away due
+to hostility).
+
 ## TL;DR Summary
 
 This document calls for a <a href="https://en.wikipedia.org/wiki/Fork_(software_development)">fork</a> of the developers’ community of the
